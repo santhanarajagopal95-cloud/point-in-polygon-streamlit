@@ -1,0 +1,4 @@
+shapely
+streamlit
+folium
+streamlit-folium
